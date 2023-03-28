@@ -9,7 +9,9 @@ ExchangeInstantAPI is a simple WPF application built with C# and Caliburn.Micro 
 # Installation 
 - Clone the repository to your local machine. 
 - Open the solution file (ExchangeInstantAPI.sln) in Visual Studio 2022. 
-- Build the solution. Run the application. 
+- Build the solution. 
+- You should download the file "api.rar" and put the file inside it into the "Debug" or the final application folder.
+- Run the application. 
 - Note: Executable file generates random currency values in Node.js. It is required for the application to have the final version as an executable file. 
 # Usage 
 Upon starting the application, the exchange rates for USD and EURO will be displayed in the main view. The exchange rates are updated every second and displayed in real-time.
